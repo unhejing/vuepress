@@ -30,7 +30,7 @@ module.exports = {
             path: '/guide/deploy',     
             children: [
               '/guide/deploy',//使用宝塔面板部署
-              '/guide/enterprise-deploy',//企业版部署指南(centos7)
+              '/guide/enterprise-deploy',//部署指南(centos7)
             ]
           },
         ]
